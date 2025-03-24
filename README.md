@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### **Steps to Run the Application**  
 1. **Clone the Repository:**  
    ```sh
-   git clone https://github.com/YOUR-USERNAME/phone-book-java.git
+   git clone https://github.com/smokemoha/phone-book-java.git
 Navigate to the Project Directory:
 cd phone-book-java
 Compile the Java Program:
